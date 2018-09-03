@@ -19,7 +19,7 @@ To prevent sedimentation inside a syringe a pair of two neodymium disc magnet pa
 This list assumes two stirrers running from a single controller. Costs are approximate as of July 2018.
 
 Part | Number | Product Code | Company | Cost (Aprox. GBP)
-—|—|—|—|—
+-----|—-------|—-------------|—--------|—-----------------
 Fan | 2 | 108-ASB0305HP-00CP4 | Mouser | 6.44 ea.
 
 
