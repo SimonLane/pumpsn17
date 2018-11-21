@@ -37,7 +37,7 @@ Fast Acrylic Weld Cement   | 1   | WC102 (500 mL)  |  Bondrite Adhesives Ltd  | 
 Sugru  |  1  |  -  |  Amazon  |  ~£6.00
 
 
-![Circuit Diagram](images/Circuit_diagram.PNG)
+![Circuit Diagram](images/Circuit_diagram.png)
 
 
 
