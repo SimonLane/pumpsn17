@@ -21,6 +21,20 @@ This list assumes two stirrers running from a single controller. Costs are appro
 Part | Number | Product Code | Company | Cost (Aprox. GBP)
 ---|---|---|---|---
 Fan | 2 | 108-ASB0305HP-00CP4 | Mouser | 6.44 ea.
+Disc Magnets  |  2 x 4  |  F042-N35   | First4Magnets  |  4.84 (50) or 0.10 ea
+Magnetic stirrer bars  |  2 x 2  |  Z118842-3EA   | Sigma-Aldrich   | 15.40 (3)
+Arduino nano (or similar)  |  1  |  1050-1001-ND | Digi-Key  |  16.66
+USB cable   | 1   | 121-6574   | RS Online  |  2.41
+Potentiometer  |  2   | 3362P-103TLF-ND |Digi-Key   | 2.05 ea
+10KOhm Resister |   2   | CF14JT10K0CT-ND   | Digi-Key  |  0.08 ea
+Protoboard  |  1     |   V2018-ND  |Digi-Key   | 4.56
+OLED screen  |  1  |  713-104030008  |  Mouser  |  11.28
+Wires  |  1   | 214-0661 |  RS Online   | 14.29
+Heat shrink tube  |  1   | 700-4532   | RS Online  |  8.70 
+Acrylic (410x280; 3 mm)  |  1    | TAAC3-C3-5   | Technsoft   | £14.75 (5 sheets)
+Acrylic (410x280; 5 mm)  |  1    | TAAC3-C5-5   | Technsoft   | £22.25 (5 sheets)
+Fast Acrylic Weld Cement   | 1   | WC102 (500 mL)  |  Bondrite Adhesives Ltd  |  £19.20
+Sugru  |  1  |  -  |  Amazon  |  ~£6.00
 
 
 
