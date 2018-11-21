@@ -8,7 +8,7 @@ The designs and documentation in this repository is Copyright (c) 2018 Simon Lan
 
 ## Introduction
 
-![Stirrer](/images/stirrer packaged.JPG) ![controller](/images/controller front.JPG)
+![Stirrer](images/stirrer packaged.JPG) ![controller](images/controller front.JPG)
 
 Maintaining cells and particles in a suspended state within a fluid medium is essential for efficient processes spanning academic research to industrial settings. A major problem is the sedimentation of cells and particles to the bottom of the vessel, effectively removing them from the process. For example, settling in a syringe prevents the delivery to devices for microfluidic processing. This results in a large proportion of cells and particles not entering the microfluidic device, and even over short, minute periods can deplete the delivery of cells and particles to zero. Where samples are precious and reagents are expensive methods to overcome sedimentation are needed. 
 Existing approaches include costly magnetic actuators that can be cumbersome for interfacing with syringes in a standard lab. Here we present an inexpensive and easy to build device with a compact footprint that can be used to greatly improve syringe-pump driven cell and particle delivery. We repurpose a small fan with pulse width modulation (PWM) control and a built-in tachometer. A feedback loop is established using an Arduino so that the RPM can be set via a simple controller. A small screen (optional) can display the RPM. Here we attach two fans to a single controller, but potentially 4 could be added. The fan motor has a low power requirement and so the whole device can be powered over USB, either from a nearby computer or a mains powered USB adapter.
@@ -37,7 +37,7 @@ Fast Acrylic Weld Cement   | 1   | WC102 (500 mL)  |  Bondrite Adhesives Ltd  | 
 Sugru  |  1  |  -  |  Amazon  |  ~£6.00
 
 
-![Circuit Diagram](/images/Circuit diagram.PNG)
+![Circuit Diagram](images/Circuit diagram.PNG)
 
 
 
