@@ -8,7 +8,7 @@ The designs and documentation in this repository is Copyright (c) 2018 Simon Lan
 
 ## Introduction
 
-![Stirrer](/images/Stirrer.JPG) ![controller](/images/controller.JPG) ![Fan](/images/Fan.JPG)
+![Stirrer](/stirrer packaged.JPG) ![controller](/controller front.JPG)
 
 Maintaining cells and particles in a suspended state within a fluid medium is essential for efficient processes spanning academic research to industrial settings. A major problem is the sedimentation of cells and particles to the bottom of the vessel, effectively removing them from the process. For example, settling in a syringe prevents the delivery to devices for microfluidic processing. This results in a large proportion of cells and particles not entering the microfluidic device, and even over short, minute periods can deplete the delivery of cells and particles to zero. Where samples are precious and reagents are expensive methods to overcome sedimentation are needed. 
 Existing approaches include costly magnetic actuators that can be cumbersome for interfacing with syringes in a standard lab. Here we present an inexpensive and easy to build device with a compact footprint that can be used to greatly improve syringe-pump driven cell and particle delivery. We repurpose a small fan with pulse width modulation (PWM) control and a built-in tachometer. A feedback loop is established using an Arduino so that the RPM can be set via a simple controller. A small screen (optional) can display the RPM. Here we attach two fans to a single controller, but potentially 4 could be added. The fan motor has a low power requirement and so the whole device can be powered over USB, either from a nearby computer or a mains powered USB adapter.
@@ -21,8 +21,23 @@ This list assumes two stirrers running from a single controller. Costs are appro
 Part | Number | Product Code | Company | Cost (Aprox. GBP)
 ---|---|---|---|---
 Fan | 2 | 108-ASB0305HP-00CP4 | Mouser | 6.44 ea.
+Disc Magnets  |  2 x 4  |  F042-N35   | First4Magnets  |  4.84 (50) or 0.10 ea
+Magnetic stirrer bars  |  2 x 2  |  Z118842-3EA   | Sigma-Aldrich   | 15.40 (3)
+Arduino nano (or similar)  |  1  |  1050-1001-ND | Digi-Key  |  16.66
+USB cable   | 1   | 121-6574   | RS Online  |  2.41
+Potentiometer  |  2   | 3362P-103TLF-ND |Digi-Key   | 2.05 ea
+10KOhm Resister |   2   | CF14JT10K0CT-ND   | Digi-Key  |  0.08 ea
+Protoboard  |  1     |   V2018-ND  |Digi-Key   | 4.56
+OLED screen  |  1  |  713-104030008  |  Mouser  |  11.28
+Wires  |  1   | 214-0661 |  RS Online   | 14.29
+Heat shrink tube  |  1   | 700-4532   | RS Online  |  8.70 
+Acrylic (410x280; 3 mm)  |  1    | TAAC3-C3-5   | Technsoft   | £14.75 (5 sheets)
+Acrylic (410x280; 5 mm)  |  1    | TAAC3-C5-5   | Technsoft   | £22.25 (5 sheets)
+Fast Acrylic Weld Cement   | 1   | WC102 (500 mL)  |  Bondrite Adhesives Ltd  |  £19.20
+Sugru  |  1  |  -  |  Amazon  |  ~£6.00
 
 
+![Circuit Diagram](/Circuit diagram.PNG)
 
 
 
