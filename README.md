@@ -36,7 +36,7 @@ Acrylic (410x280; 5 mm)  |  1    | TAAC3-C5-5   | Technsoft   | £22.25 (5 sheet
 Fast Acrylic Weld Cement   | 1   | WC102 (500 mL)  |  Bondrite Adhesives Ltd  |  £19.20
 Sugru  |  1  |  -  |  Amazon  |  ~£6.00
 
-
+![Circuit diagram](/Circuit diagram.png)
 
 
 
